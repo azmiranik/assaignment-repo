@@ -9,8 +9,6 @@ body{
 #go{
     background-image: linear-gradient( blue, cyan);
     padding: 10px 500px;
-    border: 300px;
-    
 }
 h1{
     font-size: 70px;
@@ -50,7 +48,7 @@ h3{
 }
 #healthy{
     text-align: center;
-    border-bottom: 30px;
+    border-bottom: 40px;
 }
 .main-containers{
     display: flex;
