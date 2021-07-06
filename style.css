@@ -49,15 +49,26 @@ h3{
     display: flex;
 }
 .projects img{
-    padding: 100px 50px 20px 0px;
+    padding: 40px 40px 20px 0px;
     height: 45%;
     width: 75%;
-    margin-left:90px;
+    margin-left:60px;
    }
 .text-pose{
- margin-left:90px;
+ margin-left:60px;
 }
-.main-containers{
-  box-shadow: gray;
-  border:5px solid white
+.projects{
+    
+    border-radius: 20px;
+    box-shadow:0px 9px 22px 2px rgb(0 0 0 /25%);
+    margin:15px ;
+}
+#color-of-text{
+    color: orange;
+}
+#last-point{
+    background-color: black;
+    text-align: center;
+    color:white ;
+    height: 100px;
 }
